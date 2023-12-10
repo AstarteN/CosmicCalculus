@@ -1,0 +1,19 @@
+Hello Nathan! Thank you for choosing my API! 
+To make things easier for you, I've provided a couple curls to help you out below:
+
+The curl to calculate distance: 
+curl -X POST -H "Content-Type: application/json" -d '{"speed": 50, "time": 2}' https://calculuscosmic.onrender.com/calculate-distance
+
+The curl to calculate energy:
+curl -X POST -H "Content-Type: application/json" -d '{"mass": 10}' https://cosmiccalculusastarten.onrender.com/calculate-energy
+
+The curl to calculate force:
+curl -X POST -H "Content-Type: application/json" -d '{"mass": 5, "acceleration": 10}' https://cosmiccalculusastarten.onrender.com/calculate-force
+
+Here's my render link:
+https://cosmiccalculusastarten.onrender.com
+
+Happy coding Nathan! <3
+
+
+
